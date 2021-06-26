@@ -891,3 +891,5 @@ http://rs.tdwg.org/dwc/terms/,http://rs.tdwg.org/dwc/terms/infragenericEpithet
 http://rs.tdwg.org/dwc/terms/,http://rs.tdwg.org/dwc/terms/cultivarEpithet
 http://rs.tdwg.org/dwc/terms/,http://rs.tdwg.org/dwc/terms/relationshipOfResourceID
 http://rs.tdwg.org/dwc/terms/,http://rs.tdwg.org/dwc/terms/MaterialCitation
+http://rs.tdwg.org/dwc/iri/,http://rs.tdwg.org/dwc/iri/measurementValue
+http://rs.tdwg.org/dwc/iri/,http://rs.tdwg.org/dwc/iri/verticalDatum
